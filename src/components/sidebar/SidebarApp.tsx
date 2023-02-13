@@ -8,6 +8,7 @@ import {
 } from "react-pro-sidebar";
 
 import { BiHome, BiMenu, BiTachometer } from "react-icons/bi";
+import { IoWaterOutline } from "react-icons/io5";
 import { useNavigate } from "react-router-dom";
 import { FiDatabase } from "react-icons/fi";
 
@@ -26,6 +27,7 @@ function SidebarApp() {
         >
           <h2>IOT</h2>
         </MenuItem>
+        {/*  */}
         <MenuItem
           onClick={() => {
             navigate("/dashboard");
@@ -41,6 +43,15 @@ function SidebarApp() {
           icon={<FiDatabase size={20} />}
         >
           Data
+        </MenuItem>
+        {/*  */}
+        <MenuItem
+          onClick={() => {
+            navigate("/tree");
+          }}
+          icon={<IoWaterOutline size={20} />}
+        >
+          รดน้ำต้นไม้
         </MenuItem>
       </Menu>
     </Sidebar>
