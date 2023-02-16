@@ -8,7 +8,7 @@
 
 
 <p align="center">
-4
-  <a target="blank"><img src="https://sv1.picz.in.th/images/2023/02/16/L8SrRS.png" width="200" alt="Nest Logo" /></a>
-5
+
+  <a target="blank"><img src="https://sv1.picz.in.th/images/2023/02/16/L8SrRS.png" width="600" alt="Nest Logo" /></a>
+
 </p>
