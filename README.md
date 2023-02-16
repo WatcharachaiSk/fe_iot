@@ -1,4 +1,4 @@
-# Mini Project IOT Web Application (ระบบวัดอุณหภูมิและความชื้นควบคุมNodeMCUผ่านเว็บไซต์)
+# Mini Project IOT Web Application ระบบวัดอุณหภูมิและความชื้นควบคุมNodeMCUผ่านเว็บไซต์ (Frontend)
 
 วัตถุประสงค์
 1.	เพื่อนำความรู้จากการศึกษา NodeMCU มาประยุกต์ใช้งานเป็น Mini project
