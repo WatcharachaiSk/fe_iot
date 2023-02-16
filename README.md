@@ -9,6 +9,6 @@
 
 <p align="center">
 4
-  <a target="blank"><img src="https://www.picz.in.th/image/Screenshot-2023-02-16-132232.L8SrRS" width="200" alt="Nest Logo" /></a>
+  <a target="blank"><img src="https://sv1.picz.in.th/images/2023/02/16/L8SrRS.png" width="200" alt="Nest Logo" /></a>
 5
 </p>
